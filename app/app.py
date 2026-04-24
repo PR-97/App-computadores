@@ -7,4 +7,3 @@
 
 
 # este es el aporte de juan
->>>>>>> Stashed changes
